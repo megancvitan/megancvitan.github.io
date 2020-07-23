@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<urlset xmlns="https://megancvitan.github.io/schemas/sitemap/0.9">
+<urlset xmlns="https://megancvitan.github.io/schemas/sitemap.xml/0.9">
 	<url>
 		<loc>https://megancvitan.github.io</loc>
 		<lastmod>2020-07-23</lastmod>
