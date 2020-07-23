@@ -13,4 +13,4 @@ Font Awesome (fontawesome.io)
 Other:
 Responsive Tools (github.com/ajlkn/responsive-tools)
 
-See live: [here](https://megancvitan.github.io)
+See live: https://megancvitan.github.io
