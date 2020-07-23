@@ -1,0 +1,7 @@
+Sitemap: https://megancvitan.github.io/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
